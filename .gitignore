@@ -1,0 +1,7 @@
+/secret/*
+!/secret/free.txt
+
+\!readme!.txt
+
+/h?/*.jp?g
+/h?/*.jpg
